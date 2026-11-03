@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "functions": {
+    "api/coach.mjs": {
+      "maxDuration": 60
+    }
+  }
+}

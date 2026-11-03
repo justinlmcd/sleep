@@ -1,0 +1,12 @@
+{
+  "name": "sleep",
+  "private": true,
+  "version": "0.1.0",
+  "description": "SLEEP. Your nights from Apple Health: hours, stages, bedtime and how they add up.",
+  "scripts": {
+    "dev": "node dev.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0"
+  }
+}
